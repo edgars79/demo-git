@@ -1,0 +1,6 @@
+# no .log files
+*.log
+
+# track error.log
+!error.log
+!logs.log
